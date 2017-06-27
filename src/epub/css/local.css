@@ -22,3 +22,7 @@ section > header{
 [epub|type~="bridgehead"] i{
 	font-style: normal;
 }
+
+td.number {
+    text-align: right;
+}
