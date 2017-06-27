@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 1150">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 340">
 	<title>The titlepage for the Standard Ebooks edition of The Origin of Species, by Charles Darwin</title>
-	<text style="fill:#000;font-family:League Spartan;font-size:93.56725311px;letter-spacing:5px" text-anchor="middle" x="700" y="130">ON THE ORIGIN OF SPECIES</text>
-	<text style="fill:#000;font-family:League Spartan;font-size:93.56725311px;letter-spacing:5px" text-anchor="middle" x="700" y="230">BY MEANS OF NATURAL SELECTION</text>
-	<text style="fill:#000;font-family:League Spartan;font-size:93.56725311px;letter-spacing:5px" text-anchor="middle" x="700" y="330">OR THE PRESERVATION OF FAVOURED RACES</text>
-	<text style="fill:#000;font-family:League Spartan;font-size:93.56725311px;letter-spacing:5px" text-anchor="middle" x="700" y="430">IN THE STRUGGLE FOR LIFE</text>
+	<text style="fill:#000;font-family:League Spartan;font-size:93.56725311px;letter-spacing:5px" text-anchor="middle" x="700" y="130">THE ORIGIN OF SPECIES</text>
 	<text style="fill:#000;font-family:League Spartan;font-size:70.17543793px;letter-spacing:5px" text-anchor="middle" x="700" y="590">CHARLES DARWIN</text>
 </svg>
