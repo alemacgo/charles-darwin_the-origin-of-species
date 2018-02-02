@@ -1,4 +1,4 @@
-@charset "UTF-8";
+@charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
 span[epub|type~="subtitle"]{
@@ -23,6 +23,6 @@ section > header{
 	font-style: normal;
 }
 
-td.number {
-    text-align: right;
+td.number{
+	text-align: right;
 }
